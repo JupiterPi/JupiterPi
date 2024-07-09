@@ -1,16 +1,17 @@
-## Hi there 👋
+## [Hi, I'm JupiterPi 👋](https://jupiterpi.de)
 
-<!--
-**JupiterPi/JupiterPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, software developer, designer and musician from Mannheim, Germany.
 
-Here are some ideas to get you started:
+## Project Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Filen CLI](https://github.com/FilenCloudDienste/filen-cli) – The Filen CLI is a text-based way of interacting with your Filen cloud storage.
+
+[Cranberri](https://github.com/JupiterPi/cranberri) – Cranberri is a Minecraft microcontrollers mod that can be used in schools. (→ [cranberri.jupiterpi.de](https://cranberri.jupiterpi.de))
+
+[Majesty Online](https://github.com/JupiterPi/majesty) – Majesty Online is a realtime online multiplayer adaptation of the popular board game Majesty.
+
+→ more at [jupiterpi.de/projects](https://jupiterpi.de/projects)
+
+---
+
+📧 Mail: [hello@jupiterpi.de](mailto://hello@jupiterpi.de)
