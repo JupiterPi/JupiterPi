@@ -1,6 +1,6 @@
 ## [Hi, I'm JupiterPi 👋](https://jupiterpi.de)
 
-I'm a student, software developer, designer and musician from Mannheim, Germany.
+I'm a software-developing and music-making student from Mannheim, Germany
 
 **Project Highlights:**
 - [Filen CLI](https://github.com/FilenCloudDienste/filen-cli) is a text-based way of interacting with your Filen cloud storage.
